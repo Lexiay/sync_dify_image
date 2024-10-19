@@ -31,7 +31,7 @@ GitHub Actions 工作流定义文件位于 `.github/workflows/sync-images.yml`�
 | 源镜像                                          | 替换后镜像                                                     |
 |-------------------------------------------------|----------------------------------------------------------------|
 | langgenius/dify-api:0.9.2                       | registry.cn-hangzhou.aliyuncs.com/kenwood-ai/dify-api:0.9.2     |
-| langgenius/dify-web:0.8.2                       | registry.cn-hangzhou.aliyuncs.com/kenwood-ai/dify-web:0.8.2     |
+| langgenius/dify-web:0.9.2                       | registry.cn-hangzhou.aliyuncs.com/kenwood-ai/dify-web:0.9.2     |
 | postgres:15-alpine                              | registry.cn-hangzhou.aliyuncs.com/kenwood-ai/postgres:15-alpine  |
 | redis:6-alpine                                  | registry.cn-hangzhou.aliyuncs.com/kenwood-ai/redis:6-alpine      |
 | langgenius/dify-sandbox:0.2.7                   | registry.cn-hangzhou.aliyuncs.com/kenwood-ai/dify-sandbox:0.2.7 |
